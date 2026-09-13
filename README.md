@@ -25,11 +25,7 @@ Sou **Mary**, desenvolvedora Front-end e UI/UX Design. Atualmente aprofundando c
 ![Notion](https://img.shields.io/badge/Notion-2C1810?style=flat-square&logo=notion&logoColor=F2C879)
 
 <div align="center">
-
-![Mary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adsmary&show_icons=true&theme=dark&bg_color=2C1810&title_color=F2C879&icon_color=D2691E&text_color=F2C879&border_color=8B2635)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adsmary&layout=compact&theme=dark&bg_color=2C1810&title_color=F2C879&text_color=F2C879&border_color=8B2635)
-
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adsmary&theme=dark&background=2C1810&stroke=8B2635&ring=D2691E&fire=F2C879&currStreakLabel=F2C879)
 
 </div>
