@@ -12,7 +12,7 @@
 
 ### 🍂 Sobre mim
 
-Sou **Mary**, desenvolvedora Front-end e UI/UX Design. Atualmente aprofundando conhecimentos em **Product Management** para unir visão de produto ao meu trabalho técnico e de design. Sou Estudante de Gestão da Tecnologia Da Informação pela Universidade Catolica de Brasilia (UCB)
+Sou **Mary**, Product Designer (UI/UX) e Web Designer. Atualmente aprofundando conhecimentos em **Product Management** para unir visão de produto ao meu trabalho técnico e de design. Sou Estudante de Gestão da Tecnologia Da Informação pela Universidade Catolica de Brasilia (UCB)
 
 <div align="center">
 
