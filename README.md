@@ -12,7 +12,11 @@
 
 ### 🍂 Sobre mim
 
-Sou **Mary**, Product Manager & Web Designer. Atualmente aprofundando conhecimentos em **Product Management** para unir visão de produto ao meu trabalho técnico e de design. Sou Estudante de Gestão da Tecnologia Da Informação pela Universidade Catolica de Brasilia (UCB)
+Graduanda em Gestão da Tecnologia da Informação pela UCB | Product Manager & UI/UX Designer.
+
+Atuo na concepção de produtos digitais, prototipação de interfaces e estruturação de soluções SaaS, com foco na experiência do usuário e na geração de valor.
+
+Este GitHub funciona como meu laboratório de produtos digitais, onde compartilho previews, protótipos funcionais, MVPs e versões beta de soluções que desenvolvo, explorando conceitos de Product Discovery, UX/UI, Product Design e arquitetura de produtos.
 
 <div align="center">
 
